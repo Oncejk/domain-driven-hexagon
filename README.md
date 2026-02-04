@@ -1296,6 +1296,14 @@ Read more:
 - ["Secure by Design"](https://www.manning.com/books/secure-by-design) by Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano
 - ["Implementing Domain-Driven Design"](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577) by Vaughn Vernon
 - ["Clean Architecture: A Craftsman's Guide to Software Structure and Design"](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?dchild=1&keywords=clean+architecture&qid=1605343702&s=books&sr=1-1) by Robert Martin
+<<<<<<< HEAD
 Изменение 1 в branch2
 Изменение 2 в branch2
 Изменение 3 в branch2
+=======
+Изменение 1 в branch1
+Изменение 2 в branch1
+Изменение 3 в branch1
+Изменение 1 в branch1
+>>>>>>> branch1
+Final-merge-version
