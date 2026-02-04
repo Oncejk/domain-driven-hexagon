@@ -1301,3 +1301,4 @@ Read more:
 Изменение 3 в branch1
 Изменение 1 в branch1
 Ноое именение в brench1
+Ноое именение 2 в brench1
